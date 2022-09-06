@@ -2,10 +2,10 @@
 >[Personal Website](https://abu-abdulloh.uz) | 
 >[Github](https://github.com/skhayrullayev) | 
 >[Linkedin](https://www.linkedin.com/in/salohiddin-khayrullayev/)
-***
+
 ## About
 Skilled team player with a strong background in the international education environment. Works well both independently and in a team to handle assignments and is always ready to go beyond basic assignments. Quick learner with good programming skills
-***
+
 ## Skills
 - Python
 - HTML
@@ -21,7 +21,7 @@ Skilled team player with a strong background in the international education envi
 - AWS S3
 - HarperDB
 - Posgresql, MySQL
-***
+
 ## Code Examples
 ``` 
 def to_camel_case(text):
@@ -30,9 +30,9 @@ def to_camel_case(text):
     if len(text) == 0:
         return text
 return txt[0] + ''.join(i.capitalize() for i in txt[1:])
-``` 
+```
+ 
 ## Education
-***
 - BACHELOR OF ARTS (BA) HONOURS IN BUSINESS ADMINISTRATION
     - Westminster International University in Tashkent
 - Data Structures and Algorithms
@@ -55,7 +55,7 @@ return txt[0] + ''.join(i.capitalize() for i in txt[1:])
     - *Coursera*
 - Data Visualization using Plotly
     - *Coursera*
-***
+    
 ## Language
 - English - C1
 - Russian - C1
