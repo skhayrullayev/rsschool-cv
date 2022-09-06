@@ -23,12 +23,14 @@ Skilled team player with a strong background in the international education envi
 - Posgresql, MySQL
 ***
 ## Code Examples
-`def to_camel_case(text):`
-: `txt = text.replace("-", " ").replace("_", " ")`
-: `txt = txt.split()`
-: `if len(text) == 0:`
-: `return text`
-: `return txt[0] + ''.join(i.capitalize() for i in txt[1:])`
+``` 
+def to_camel_case(text):
+    txt = text.replace("-", " ").replace("_", " ")
+    txt = txt.split()
+    if len(text) == 0:
+        return text
+return txt[0] + ''.join(i.capitalize() for i in txt[1:])
+``` 
 ## Education
 ***
 - BACHELOR OF ARTS (BA) HONOURS IN BUSINESS ADMINISTRATION
