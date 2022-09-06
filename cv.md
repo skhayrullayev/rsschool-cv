@@ -1,13 +1,12 @@
 # Salokhiddin Khayrullaev
 ### Full-Stack Web Developer, Backend Developer
 
+---
+
 ## Contact
-- Phone: +998974484482
-- E-mail: skhayrullayev@gmail.com
-- Telegram: 
-- [Website](https://abu-abdulloh.uz)
-- [Github](https://github.com/skhayrullayev) 
-- [Linkedin](https://www.linkedin.com/in/salohiddin-khayrullayev/)
+- **Phone:** +998974484482
+- **E-mail:** skhayrullayev@gmail.com
+- [Website](https://abu-abdulloh.uz) | [Github](https://github.com/skhayrullayev) | [Linkedin](https://www.linkedin.com/in/salohiddin-khayrullayev/) | [Telegram](https://t.me/llabuabdullohll)
 
 ---
 
