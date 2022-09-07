@@ -66,3 +66,9 @@ return txt[0] + ''.join(i.capitalize() for i in txt[1:])
 - Data Visualization using Plotly
     - *Coursera*
 
+---
+
+## Language
+- English - C1 *(Alumni of the University of Westminster)*
+- Russian - C1
+- Uzbek - Native
