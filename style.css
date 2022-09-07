@@ -1,0 +1,150 @@
+body {
+    background: #E5E5E5;
+}
+
+/* CV Resume */
+
+.content {
+    position: relative;
+    width: 595px;
+    height: 842px;
+    
+    background: #FFFFFF;
+}
+
+/* Title */
+
+.title{
+    position: absolute;
+    width: 258px;
+    height: 87px;
+    left: 29px;
+    top: 69px;
+}
+
+.title.surname {
+    position: absolute;
+    width: 57px;
+    height: 28px;
+    left: 1px;
+    top: 0px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+
+    color: #000000;
+}
+
+.title.name {
+    position: absolute;
+    width: 258px;
+    height: 47px;
+    left: 0px;
+    top: 24px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    letter-spacing: 0.2em;
+    
+    color: #000000;
+}
+
+.title.role {
+    position: absolute;
+    width: 123px;
+    height: 16px;
+    left: 135px;
+    top: 71px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    
+    color: #000000;
+}
+
+/* Photo */
+
+.photo {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 443px;
+    top: 57px;
+    
+    /* background: url(.jpg); */
+    background: green;
+}
+
+/* Contact */
+
+.contact {
+    position: absolute;
+    width: 120px;
+    height: 114px;
+    left: 23px;
+    top: 243px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* Profile */
+
+.profile {
+    position: absolute;
+    width: 350px;
+    height: 111px;
+    left: 213px;
+    top: 243px;
+}
+
+/* Skills */
+
+.skill {
+    position: absolute;
+    width: 96px;
+    height: 265px;
+    left: 25px;
+    top: 405px;    
+}
+
+/* Education */
+
+.edu {
+    position: absolute;
+    width: 147.5px;
+    height: 107.5px;
+    left: 28.5px;
+    top: 701px;
+}
+
+/* Experience */
+
+.exp {
+    position: absolute;
+    width: 354px;
+    height: 392px;
+    left: 209px;
+    top: 405px;
+}
+
+/* Lines */
+
+.line {
+    position: absolute;
+    width: 0px;
+    height: 283px;
+    left: 31.5px;
+    top: 0px;
+}
